@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ruchira Dasanayake</h1>
 <h3 align="center">An IT Undergraduate keen on delving into the world of Data Sciencecience</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ruchiradasanayake" alt="ruchiradasanayake" /></a> </p>
-
 - 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **Java, C, C++**
@@ -13,8 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/Ruchira Dasanayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ruchira Dasanayake" height="30" width="40" /></a>
-<a href="https://fb.com/Ruchira Lakshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Ruchira Lakshan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Ruchira Dasanayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ruchira dasanayake" height="30" width="40" /></a>
+<a href="https://fb.com/Ruchira Lakshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ruchira lakshan" height="30" width="40" /></a>
 <a href="https://instagram.com/_laxaaa__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_laxaaa__" height="30" width="40" /></a>
 </p>
 
