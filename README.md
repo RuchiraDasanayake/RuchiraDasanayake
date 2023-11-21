@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ruchira Dasanayake</h1>
-<h3 align="center">An IT Undergraduate keen on delving into the world of Data Sciencecience</h3>
+<h3 align="center">An IT undergraduate keen on delving into the world of Data Science</h3>
 
 - 🌱 I’m currently learning **Python**
 
