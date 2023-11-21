@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ruchira Dasanayake</h1>
-<h3 align="center">An IT undergraduate keen on delving into the world of Data Science</h3>
+
+<h3 align="center">"An IT undergraduate keen on delving into the world of Data Science"</h3>
+
+## <p align="center"><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 200px height= 200px></picture></p>
 
 - 🌱 I’m currently learning **Python**
 
