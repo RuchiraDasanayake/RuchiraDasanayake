@@ -9,6 +9,12 @@
 
 - ⚡ Fun fact **Call me Laxaa**
 
+## By the way here are some of my statistics 🚀
+![Ruchira's github stats](https://github-readme-stats.vercel.app/api?username=RuchiraDasanayake&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkuraDiary&theme=tokyonight" alt="mystreak"/>
+![Ruchira's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuchiraDasanayake&theme=tokyonight&layout=compact)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/Ruchira Dasanayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ruchira dasanayake" height="30" width="40" /></a>
