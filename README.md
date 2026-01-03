@@ -28,10 +28,9 @@
 
 ### 🧐 About Me
 
-- 🎓 I am an **Information Technology Undergraduate** passionate about solving complex problems.
-- 📊 My primary focus is on **Data Science, Machine Learning, and Python Development**.
+- 🎓 I am an **Data Science Undergraduate** passionate about solving complex problems.
+- 📊 My primary focus is on **Data Science, Machine Learning, and Software Development**.
 - 💼 I am actively looking for opportunities to apply my skills in real-world projects.
-- 🌱 Currently learning: **Advanced Data Analytics & Model Deployment**.
 - ⚡ Fun fact: **Call me Laxaa**
 
 ---
@@ -45,13 +44,6 @@
 </div>
 
 ---
-
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RuchiraDasanayake&show_icons=true&theme=dracula&hide_border=true" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuchiraDasanayake&layout=compact&theme=dracula&hide_border=true" height="160" alt="languages graph" />
-</div>
 
 <br/>
 
