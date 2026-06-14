@@ -1,11 +1,11 @@
 <!-- ===================== HEADER BANNER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:4169E1,100:00BFFF&height=300&section=header&text=Ruchira%20Dasanayake&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20Undergraduate%20%E2%80%A2%20Associate%20Software%20Engineer&descSize=20&descAlignY=58&descAlign=50" width="100%" alt="header banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:4169E1,100:00BFFF&height=300&section=header&text=Ruchira%20Dasanayake&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20Undergraduate%20%E2%80%A2%20Software%20Engineer&descSize=20&descAlignY=58&descAlign=50" width="100%" alt="header banner"/>
 
 <!-- ===================== TYPING ANIMATION ===================== -->
 <a href="https://ruchira-dasanayake.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&height=50&lines=Data+Science+Undergraduate;Associate+Software+Engineer;Machine+Learning+Enthusiast;Turning+Raw+Data+into+Insights;You+Can+Call+Me+Laxaa+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&height=50&lines=Data+Science+Undergraduate;Software+Engineer;Machine+Learning+Enthusiast;Turning+Raw+Data+into+Insights;You+Can+Call+Me+Laxaa+%E2%9A%A1" alt="Typing SVG" />
 </a>
 
 <!-- ===================== SOCIAL BADGES ===================== -->
