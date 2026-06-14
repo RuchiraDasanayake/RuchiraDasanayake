@@ -40,7 +40,7 @@
 
 - 🎓 &nbsp;I'm a **Data Science Undergraduate** passionate about solving complex, real-world problems.
 - 📊 &nbsp;My core focus is **Data Science, Machine Learning & Software Development**.
-- 💼 &nbsp;Currently working as an **Associate Software Engineer**.
+- 💼 &nbsp;Currently working as an **Software Engineer**.
 - 🌱 &nbsp;Always learning — turning **raw data into actionable insights**.
 - 💬 &nbsp;Ask me about **Python, Data Science, ML & SQL**.
 - 📫 &nbsp;Reach me at **drl.dasanayake.official@gmail.com**
